@@ -4,7 +4,12 @@
   <img src="https://github.com/dotlso/dotlso/blob/main/mike.png" alt="Banner of Exhausted Mike">
 </div>
 
-![](https://komarev.com/ghpvc/?username=dotlso&color=green&style=for-the-badge)  
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=dotlso&color=green&style=for-the-badge)
+
+</div>
+
   <!--
 **dotlso/dotlso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
