@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://github.com/dotlso/dotlso/blob/main/mike.png" alt="Banner of Exhausted Mike">
-  ![](https://komarev.com/ghpvc/dotlso&color=green&style=for-the-badge)  
 </div>
 
 ![](https://komarev.com/ghpvc/dotlso&color=green&style=for-the-badge)  
