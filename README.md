@@ -1,10 +1,11 @@
-## Hi there 👋
+
 
 <div align="center">
   <img src="https://github.com/dotlso/dotlso/blob/main/mike.png" alt="Banner of Exhausted Mike">
+  ![](https://komarev.com/ghpvc/dotlso&color=green&style=for-the-badge)  
 </div>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)  
+![](https://komarev.com/ghpvc/dotlso&color=green&style=for-the-badge)  
   <!--
 **dotlso/dotlso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
