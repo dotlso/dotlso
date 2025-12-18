@@ -7,23 +7,20 @@
 
 <div align="center">
 
-<img src="mike.png" width="150" style="border-radius:6px;" />
-
-<br><br>
+<img src="mike.png" width="150"/>
 
 ### dotlso  
-
-<hr>
 
 ![](https://komarev.com/ghpvc/?username=dotlso&color=green&style=for-the-badge)
 
 </div>
 
-### 🌐 Social Links
+***🌐 Social Links***
 
-- 💬 Discord: `kworo`
-- 📘 GitHub:`https://github.com/dotlso` 
-- 📷 Instagram: `https://www.instagram.com/lsoncls_/`
+[![Discord](https://img.shields.io/badge/kworo-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/dotlso-%23121011.svg?logo=github&logoColor=white)](https://github.com/dotlso)
+[![Gmail](https://img.shields.io/badge/lsonicolas21@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lsonicolas21@gmail.com)
+[![Instagram](https://img.shields.io/badge/lsoncls__-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lsoncls_/)
 
 </td>
 
