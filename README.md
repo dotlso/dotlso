@@ -18,14 +18,13 @@
 
 <hr>
 
-<p align="center">
 <h3 align="center">🌐 Social Links</h3>
 
 [![Discord](https://img.shields.io/badge/kworo-%235865F2.svg?&logo=discord&logoColor=white)](#)<br>
 [![GitHub](https://img.shields.io/badge/dotlso-%23121011.svg?logo=github&logoColor=white)](https://github.com/dotlso)<br>
 [![Gmail](https://img.shields.io/badge/lsonicolas21@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lsonicolas21@gmail.com)<br>
 [![Instagram](https://img.shields.io/badge/lsoncls__-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lsoncls_/)
-</p>
+
 
 </td>
 
@@ -41,12 +40,13 @@
 
 ### 📊 Stats Overview
 
-<br><br>
+<br>
 
 <div align="center">
 
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=dotlso&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
 
+![](https://img.shields.io/badge/Python?style=for-the-badge&label=Currently%20Learning)
 </div>
 
 </td>
