@@ -1,4 +1,5 @@
 <!-- ===================== Profile ===================== -->
+<div align="center">
 <table width="100%">
 <tr>
 
@@ -29,16 +30,16 @@
 <!-- RIGHT MAIN PANEL -->
 <td width="75%" valign="top">
 
-<h3 align="center">🧠 Bio</h3>
+<h3 align="center">💫 About Me:</h3>
 
 <p align="center">
-  Math student specializing in Computer Science with interests in<br>
-  software development, game systems, and digital art.<br>
-  I enjoy building things, learning deeply, and improving over time.
+  I’m a 3rd-year BS Mathematics student specializing in Computer Science, with interests in software development, game systems, digital art and design, and plastic model kits. I enjoy building things, understanding systems in depth, and continuously improving over time.
 </p>
 
 
 ### 📊 Stats Overview
+
+<br>
 
 <div align="center">
 
@@ -49,13 +50,12 @@
 </td>
 </tr>
 </table>
-
----
-
+</div>
 
 ### 🛠 Tools & Languages
 
-**Languages & Databases**
+<h3 align="center">Languages & Databases</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,c,cpp,mysql,java,py" />
@@ -66,7 +66,8 @@
 
 <br>
 
-**Tools**
+<h3 align="center">Tools</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pr,ae,ai,ps,vscode" />
@@ -80,8 +81,7 @@
 - Gaming  
 - Plastic model kits / Gunpla  
 - Digital illustration  
-- Studying game balance and progression  
----
+- Graphic Design
 
 <div align="center">
 
