@@ -12,6 +12,7 @@
 -->
 
 <!-- ===================== VISITOR COUNT ===================== -->
+<!-- ===================== VISITOR COUNT ===================== -->
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=dotlso&color=green&style=for-the-badge)
@@ -161,3 +162,4 @@ and creating art using both pixel and illustration tools.
 🛠 Always learning, always building
 
 </div>
+
