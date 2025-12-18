@@ -11,7 +11,7 @@
 </div>
 -->
 
-<!-- ===================== VISITOR COUNT ===================== -->
+
 <!-- ===================== VISITOR COUNT ===================== -->
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 <br>
 
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== PROFILE HEADER ===================== -->
 <table>
 <tr>
 <td width="30%" valign="top">
@@ -46,11 +46,13 @@
 ### 🧠 Bio
 
 I’m a Math student specializing in Computer Science with a strong interest in  
-software development, game systems, and digital art. I like building things,  
-breaking them, and figuring out how they work.  
+software development, game systems, and digital art.
+
+I enjoy building practical projects, learning how systems work under the hood,  
+and improving both my technical and creative skills over time.
 
 Outside of coding, I spend time gaming, working on plastic model kits,  
-and creating art using both pixel and illustration tools.
+and creating digital art using various tools.
 
 </td>
 </tr>
@@ -58,36 +60,51 @@ and creating art using both pixel and illustration tools.
 
 ---
 
-<!-- ===================== STAT TRACKER ===================== -->
+<!-- ===================== STEAM-STYLE STATS ===================== -->
 ### 📊 Profile Stats
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=dotlso&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=dotlso&theme=transparent&count_private=true&border_radius=10&locale=en" alt="GitHub Streak" />
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotlso&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+
+</div>
+
+<hr>
+
+<!-- ===================== TOOLS & LANGUAGES ===================== -->
+### 🔧 Tools & Languages
 
 <table>
 <tr>
-<td>
+<td valign="top">
 
-**💻 Languages**
+**💻 Programming Languages**
 - C  
 - C++  
 - Java  
-- Python *(learning)*  
+- Python *(currently learning)*  
 
 </td>
 
-<td>
+<td valign="top">
 
-**🛠 Tools**
+**🛠 Software & Tools**
 - Adobe Photoshop  
 - Adobe Premiere Pro  
 - Clip Studio Paint  
 
 </td>
 
-<td>
+<td valign="top">
 
-**🎯 Interests**
-- Game Development  
-- UI / UX  
-- Optimization & Systems  
+**🎯 Focus Areas**
+- Game systems & mechanics  
+- UI / UX design  
+- Clean, maintainable code  
 
 </td>
 </tr>
@@ -95,26 +112,12 @@ and creating art using both pixel and illustration tools.
 
 ---
 
-<!-- ===================== TOOLS & LANGUAGES ICON BAR ===================== -->
-### 🔧 Tools & Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ps" />
-<br>
-<img src="YOUR_PREMIERE_ICON_URL" height="48" />
-<img src="YOUR_CLIPSTUDIO_ICON_URL" height="48" />
-
-</div>
-
----
-
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 ### 📘 Currently Learning
 
-- Python (automation, scripting, data handling)
-- Game system design
-- Better software architecture practices
+- Python for automation and scripting  
+- Better software architecture  
+- Game design balance and progression systems  
 
 <progress value="40" max="100"></progress>
 
@@ -126,7 +129,7 @@ and creating art using both pixel and illustration tools.
 - Gaming (FPS, sandbox, farming sims)
 - Plastic model kits / Gunpla
 - Digital illustration & pixel art
-- Exploring game mechanics and balance
+- Exploring how games are designed and balanced
 
 ---
 
@@ -147,7 +150,7 @@ and creating art using both pixel and illustration tools.
 
 - 📘 GitHub: https://github.com/dotlso
 - 📷 Instagram: `LINK_HERE`
-- 🧠 Other: `LINK_HERE`
+- 🔗 Other: `LINK_HERE`
 
 </td>
 </tr>
@@ -155,10 +158,9 @@ and creating art using both pixel and illustration tools.
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-⭐ Feel free to explore my repositories  
+⭐ Thanks for visiting  
 🛠 Always learning, always building
 
 </div>
