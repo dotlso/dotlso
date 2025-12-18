@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 
-<!-- LEFT SIDEBAR -->
+<!-- LEFT -->
 <td width="25%" valign="top">
 
 <div align="center">
@@ -18,16 +18,18 @@
 
 <hr>
 
+<p align="center">
 <h3 align="center">🌐 Social Links</h3>
 
 [![Discord](https://img.shields.io/badge/kworo-%235865F2.svg?&logo=discord&logoColor=white)](#)<br>
 [![GitHub](https://img.shields.io/badge/dotlso-%23121011.svg?logo=github&logoColor=white)](https://github.com/dotlso)<br>
 [![Gmail](https://img.shields.io/badge/lsonicolas21@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lsonicolas21@gmail.com)<br>
 [![Instagram](https://img.shields.io/badge/lsoncls__-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lsoncls_/)
+</p>
 
 </td>
 
-<!-- RIGHT MAIN PANEL -->
+<!-- RIGHT  -->
 <td width="75%" valign="top">
 
 <h3 align="center">💫 About Me:</h3>
@@ -39,7 +41,7 @@
 
 ### 📊 Stats Overview
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -63,8 +65,6 @@
 </p>
 
   <h6 align="center">Progression: HTML → C → C++ → MySQL → Java → Python(Learning)</h6>
-
-<br>
 
 <h3 align="center">Tools</h3>
 
