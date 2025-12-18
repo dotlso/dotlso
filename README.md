@@ -74,8 +74,8 @@
 </p>
 
 <hr>
-### 📝 Currently Learning
 
+### 📝 Currently Learning
 - Python
 - Game Development
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-⭐ Feel free to explore my repositories
+⭐ Feel free to explore my repositories<br>
 🛠 Always learning, always building
 
 </div>
