@@ -46,7 +46,6 @@
 
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=dotlso&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
 
-![](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 </div>
 
 </td>
@@ -75,6 +74,12 @@
 </p>
 
 <hr>
+### 📝 Currently Learning
+
+- Python
+- Game Development
+
+<hr>
 
 ### 🎮 Hobbies
 
@@ -85,7 +90,7 @@
 
 <div align="center">
 
-⭐ Profile inspired by Steam layout  
+⭐ Feel free to explore my repositories
 🛠 Always learning, always building
 
 </div>
