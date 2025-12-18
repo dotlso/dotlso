@@ -46,7 +46,7 @@
 
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=dotlso&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
 
-![](https://img.shields.io/badge/Python?style=for-the-badge&label=Currently%20Learning)
+![]([https://img.shields.io/badge/Python?style=for-the-badge&label=Currently%20Learning](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge))
 </div>
 
 </td>
