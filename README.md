@@ -21,90 +21,60 @@
 
 <br>
 
-<!-- ===================== PROFILE HEADER ===================== -->
-<table>
+<!-- ===================== TOP STEAM LAYOUT ===================== -->
+<table width="100%">
 <tr>
-<td width="30%" valign="top">
+
+<!-- LEFT SIDEBAR -->
+<td width="25%" valign="top">
 
 <div align="center">
 
-<img src="YOUR_AVATAR_URL" width="160" style="border-radius:50%;" />
+<img src="YOUR_AVATAR_URL" width="150" style="border-radius:6px;" />
 
-### dotlso
+<br><br>
+
+### dotlso  
 **Level 3**
-
-🎮 Gamer  
-💻 Math + CS  
-🎨 Digital Artist  
-
-</div>
-
-</td>
-
-<td width="70%" valign="top">
-
-### 🧠 Bio
-
-I’m a Math student specializing in Computer Science with a strong interest in  
-software development, game systems, and digital art.
-
-I enjoy building practical projects, learning how systems work under the hood,  
-and improving both my technical and creative skills over time.
-
-Outside of coding, I spend time gaming, working on plastic model kits,  
-and creating digital art using various tools.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================== STEAM-STYLE STATS ===================== -->
-### 📊 Profile Stats
-
-<div align="center">
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=dotlso&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=dotlso&theme=transparent&count_private=true&border_radius=10&locale=en" alt="GitHub Streak" />
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotlso&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
-
-</div>
 
 <hr>
 
-<!-- ===================== TOOLS & LANGUAGES ===================== -->
-### 🔧 Tools & Languages
+**Status**  
+🟢 Online
 
-<table>
-<tr>
-<td valign="top">
+<br>
 
-**💻 Programming Languages**
-- C  
-- C++  
-- Java  
-- Python *(currently learning)*  
+**Badges**  
+<img src="BADGE_1_URL" width="40"/>
+<img src="BADGE_2_URL" width="40"/>
+<img src="BADGE_3_URL" width="40"/>
 
-</td>
-
-<td valign="top">
-
-**🛠 Software & Tools**
-- Adobe Photoshop  
-- Adobe Premiere Pro  
-- Clip Studio Paint  
+</div>
 
 </td>
 
-<td valign="top">
+<!-- RIGHT MAIN PANEL -->
+<td width="75%" valign="top">
 
-**🎯 Focus Areas**
-- Game systems & mechanics  
-- UI / UX design  
-- Clean, maintainable code  
+### 🧠 Bio
+
+Math student specializing in Computer Science with interests in  
+software development, game systems, and digital art.  
+I enjoy building things, learning deeply, and improving over time.
+
+---
+
+### 📊 Stats Overview
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=dotlso&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=dotlso&theme=transparent&count_private=true&border_radius=10&locale=en" />
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotlso&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" />
+
+</div>
 
 </td>
 </tr>
@@ -112,45 +82,72 @@ and creating digital art using various tools.
 
 ---
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-### 📘 Currently Learning
+<!-- ===================== FULL WIDTH PANELS ===================== -->
+### 🛠 Tools & Languages
 
-- Python for automation and scripting  
-- Better software architecture  
-- Game design balance and progression systems  
+<table width="100%">
+<tr>
+<td width="33%">
 
-<progress value="40" max="100"></progress>
+**Programming**
+- C  
+- C++  
+- Java  
+- Python *(learning)*  
+
+</td>
+<td width="33%">
+
+**Creative Tools**
+- Photoshop  
+- Premiere Pro  
+- Clip Studio Paint  
+
+</td>
+<td width="33%">
+
+**Focus Areas**
+- Game mechanics  
+- System design  
+- Clean code  
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ===================== HOBBIES ===================== -->
 ### 🎮 Hobbies
 
-- Gaming (FPS, sandbox, farming sims)
-- Plastic model kits / Gunpla
-- Digital illustration & pixel art
-- Exploring how games are designed and balanced
-
----
-
-<!-- ===================== SOCIALS ===================== -->
-### 🌐 Social & Links
-
-<table>
+<table width="100%">
 <tr>
 <td>
 
-- 💬 Discord: `YOUR_DISCORD_TAG`
-- 🎮 Steam: `YOUR_STEAM_PROFILE`
-- 🖼 Art Portfolio: `LINK_HERE`
+- Gaming  
+- Plastic model kits / Gunpla  
+- Digital illustration  
+- Studying game balance and progression  
 
 </td>
+</tr>
+</table>
 
-<td>
+---
 
-- 📘 GitHub: https://github.com/dotlso
+### 🌐 Social Links
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+- 💬 Discord: `YOUR_DISCORD_TAG`
+- 🎮 Steam: `YOUR_STEAM_PROFILE`
+
+</td>
+<td width="50%">
+
+- 📘 GitHub: https://github.com/dotlso  
 - 📷 Instagram: `LINK_HERE`
-- 🔗 Other: `LINK_HERE`
 
 </td>
 </tr>
@@ -160,8 +157,7 @@ and creating digital art using various tools.
 
 <div align="center">
 
-⭐ Thanks for visiting  
+⭐ Profile inspired by Steam layout  
 🛠 Always learning, always building
 
 </div>
-
