@@ -15,11 +15,13 @@
 
 </div>
 
-***🌐 Social Links***
+<hr>
 
-[![Discord](https://img.shields.io/badge/kworo-%235865F2.svg?&logo=discord&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/dotlso-%23121011.svg?logo=github&logoColor=white)](https://github.com/dotlso)
-[![Gmail](https://img.shields.io/badge/lsonicolas21@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lsonicolas21@gmail.com)
+<h3 align="center">🌐 Social Links</h3>
+
+[![Discord](https://img.shields.io/badge/kworo-%235865F2.svg?&logo=discord&logoColor=white)](#)<br>
+[![GitHub](https://img.shields.io/badge/dotlso-%23121011.svg?logo=github&logoColor=white)](https://github.com/dotlso)<br>
+[![Gmail](https://img.shields.io/badge/lsonicolas21@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lsonicolas21@gmail.com)<br>
 [![Instagram](https://img.shields.io/badge/lsoncls__-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lsoncls_/)
 
 </td>
@@ -27,16 +29,14 @@
 <!-- RIGHT MAIN PANEL -->
 <td width="75%" valign="top">
 
+<h3 align="center">🧠 Bio</h3>
+
 <p align="center">
-  
-### 🧠 Bio
-
-Math student specializing in Computer Science with interests in  
-software development, game systems, and digital art.  
-I enjoy building things, learning deeply, and improving over time.
-
+  Math student specializing in Computer Science with interests in<br>
+  software development, game systems, and digital art.<br>
+  I enjoy building things, learning deeply, and improving over time.
 </p>
----
+
 
 ### 📊 Stats Overview
 
@@ -62,9 +62,7 @@ I enjoy building things, learning deeply, and improving over time.
   </a>
 </p>
 
-<p align="center">
-  <small>Progression: HTML → C → C++ → MySQL → Java → Python</small>
-</p>
+  <h6 align="center">Progression: HTML → C → C++ → MySQL → Java → Python(Learning)</h6>
 
 <br>
 
@@ -76,14 +74,6 @@ I enjoy building things, learning deeply, and improving over time.
 </p>
 
 <hr>
-
-**Focus Areas**
-- Game mechanics  
-- System design  
-- Clean code  
-
-
----
 
 ### 🎮 Hobbies
 
