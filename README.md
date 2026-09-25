@@ -34,7 +34,7 @@
 <h3 align="center">💫 About Me:</h3>
 
 <p align="center">
-  I’m a 3rd-year BS Mathematics student specializing in Computer Science, with interests in software development, game systems, digital art and design, and plastic model kits. I enjoy building things, understanding systems in depth, and continuously improving over time.
+  I’m a 4th-year BS Mathematics student specializing in Computer Science, with interests in software development, game systems, digital art and design, and plastic model kits. I enjoy building things, understanding systems in depth, and continuously improving over time.
 </p>
 
 
